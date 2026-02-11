@@ -221,3 +221,4 @@ for x, obj in siswa.items():     # x = key utama (sepert : "child1")
 
     for y in obj:                   # y = key di dalam obj (contoh : "name", "year")
         print(y + ':', obj[y])      # obj[y] = value dari key tersebut
+        
